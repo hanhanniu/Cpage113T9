@@ -1,0 +1,26 @@
+﻿生成启动时间为 2019/3/6 21:22:32。
+     1>项目“F:\Cprogram\Page113T9\Page113T9\Page113T9.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Page113T9.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         D:\VISUAL STUDIO 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Cprogram\Page113T9\Debug\Page113T9.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Page113T9.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Cprogram\Page113T9\Debug\Page113T9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Cprogram\Page113T9\Debug\Page113T9.lib" /MACHINE:X86 Debug\Page113T9.exe.embed.manifest.res
+         Debug\Page113T9.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Page113T9.exe.embed.manifest" /manifest Debug\Page113T9.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Page113T9.vcxproj -> F:\Cprogram\Page113T9\Debug\Page113T9.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Page113T9.unsuccessfulbuild”。
+         正在对“Debug\Page113T9.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\Cprogram\Page113T9\Page113T9\Page113T9.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.69
